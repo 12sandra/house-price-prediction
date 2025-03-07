@@ -9,7 +9,7 @@ This is a **Flask-based web application** that predicts house prices based on us
 - 📂 **Flask Backend** – Handles user input and serves predictions.
 - 🎨 **Styled UI** – Enhanced with CSS and a background image.
 ## 🖼️ Screenshot
-![House Price Prediction App](screenshot.png)
+![House Price Prediction App](Screenshot.png)
 
 ## 📦 Setup & Installation
 
