@@ -8,6 +8,8 @@ This is a **Flask-based web application** that predicts house prices based on us
 - 🧠 **Machine Learning Model** – Uses a **DecisionTreeRegressor** for predictions.
 - 📂 **Flask Backend** – Handles user input and serves predictions.
 - 🎨 **Styled UI** – Enhanced with CSS and a background image.
+## 🖼️ Screenshot
+![House Price Prediction App](screenshot.png)
 
 ## 📦 Setup & Installation
 
